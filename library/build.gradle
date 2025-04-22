@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.novoda.bintray-release'
 
-def siteUrl = 'https://github.com/Mersi-LLC/Insta-Story-Loading-Animation'
+def siteUrl = 'https://github.com/Mersi-LLC/Insta-Story-Loading-Animation-'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
