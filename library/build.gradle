@@ -36,8 +36,8 @@ dependencies {
 }
 
 publish {
-    userOrg = 'qintong000'
-    groupId = 'com.qintong'
+    userOrg = 'mersillc'
+    groupId = 'com.mersillc'
     artifactId = 'insLoadingAnimation'
     publishVersion = '1.1.0'
     desc = "Imitation of instagram and weibo loading animation "
